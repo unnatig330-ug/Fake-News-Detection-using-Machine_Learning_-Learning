@@ -1,4 +1,5 @@
-# 📰 Fake News Detection using Machine Learning
+#  Fake News Detection using Machine Learning
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unnatig330-ug/Fake-News-Detection-using-Machine_Learning_-Learning/blob/main/Fake_News_Detection_using_Machine_Learning.ipynb)
 
 ## 📌 Introduction
 
